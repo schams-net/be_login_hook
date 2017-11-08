@@ -38,7 +38,7 @@ class UserLoginHook
     }
 
     /**
-     *
+     * Init method
      */
     public function init()
     {
