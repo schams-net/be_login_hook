@@ -1,5 +1,6 @@
 {
 	"name": "schams-net/be-login-hook",
+	"type": "typo3-cms-extension",
 	"description": "...",
 	"license": ["GPL-2.0+"],
 	"require": {
