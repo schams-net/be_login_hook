@@ -1,0 +1,13 @@
+{
+	"name": "schams-net/be-login-hook",
+	"description": "...",
+	"license": ["GPL-2.0+"],
+	"require": {
+		"php": ">=7.0.0 <=7.1.99"
+	},
+	"autoload": {
+		"psr-4": {
+			"SchamsNet\\BeLoginHook\\": "Classes"
+		}
+	}
+}
